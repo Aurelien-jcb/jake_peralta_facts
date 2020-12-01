@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 300px 0;
+    display: flex;
+    justify-content: center;
+}
+.fact__container{
+    background-color: white;
+    width: 50%;
+    border-radius: 5px;
+}
+.fact__container, #fact__btn{
+    border-radius: 5px;
+}
+.fact__paragraph{
+    font-size: 2rem;
+    text-align: center;
+    margin: 100px 50px;
+    text-align: center;
+}
+.fact__btn{
+    outline: none;
+    margin: 0px 10px 30px 550px ;
+    padding: 20px 40px;
+    border: none;
+    color: white;
+}
