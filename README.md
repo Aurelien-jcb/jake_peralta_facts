@@ -1,4 +1,4 @@
-# TP Chuck Norris
+# TP Chuck Norris / Jake Perlata
  
 ## Objectif: Reproduire un générateur de punchlines "Chuck Norris(ou Jake Peralta)"
 
