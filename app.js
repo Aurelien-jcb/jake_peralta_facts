@@ -4,7 +4,7 @@ const fact = [
     "C'est le titre de ta sex tape ?",
     "Oh mon dieu j'aurais dû avoir bien plus peur !",
     "Sergent, avec tout le respect que je vous dois, je vais complètement ignorer tout ce que vous venez de dire.",
-    "Cool, cool, cool, cool, cool. Aucun doute, aucun doute, aucun doute.",
+    "Cool, cool, cool, cool, cool...",
     "Bien. mais en signe de protestation, je marche là-bas extrêmement lentement!",
     "Super, je voudrais votre bouteille de vin à 8 $ la plus élevée, s'il vous plaît.",
     "'Je suis tellement confus que je ne sais pas ce qui se passe en ce moment': c'est le titre de ta sex tape ?",
