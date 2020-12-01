@@ -14,10 +14,12 @@ const fact = [
 
 const factBtn = document.querySelector("#fact__btn");
 const body = document.body;
+const paragraph = document.querySelector("#fact__paragraph");
 
 // couleurs de base du background body et button
 body.style.background = "red";
 factBtn.style.background = "red";
+paragraph.style.color= "red";
 
 // Fonction qui définis la nouvelle couleur
 function changeColor() {
@@ -25,6 +27,7 @@ function changeColor() {
     const color = `rgb(${colorNbr})`;
     body.style.background = color;
     factBtn.style.background = color;
+    paragraph.style.color = color;
 }
 
 // Fonction qui change le texte avec un élément aléatoire du tableau fact[]
